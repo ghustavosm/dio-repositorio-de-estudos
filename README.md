@@ -1,2 +1,3 @@
-# dio-repositorio-de-estudos
-Repósitório de estudos dos cursos da DIO
+# Repositório de estudos dos cursos da DIO
+
+Aqui estarão os projetos desenvolvidos durante os estudos dos cursos da DIO.
